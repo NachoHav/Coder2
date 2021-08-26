@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2021-08-26T22:53:37.925Z",
+    "nombre": "Producto 5",
+    "descripcion": "Descripcion 1",
+    "precio": 323.47,
+    "codigo": 11491,
+    "url": "https://picsum.photos/id/52/200/200",
+    "stock": 82
+  },
+  {
+    "id": 2,
+    "timestamp": "2021-08-26T22:53:37.925Z",
+    "nombre": "Producto 2",
+    "descripcion": "Descripcion 6",
+    "precio": 4345.26,
+    "codigo": 16042,
+    "url": "https://picsum.photos/id/61/200/200",
+    "stock": 78
+  },
+  {
+    "id": 3,
+    "timestamp": "2021-08-26T22:53:37.925Z",
+    "nombre": "Producto 4",
+    "descripcion": "Descripcion 5",
+    "precio": 8288.18,
+    "codigo": 22361,
+    "url": "https://picsum.photos/id/71/200/200",
+    "stock": 39
+  },
+  {
+    "id": 4,
+    "timestamp": "2021-08-26T22:53:37.925Z",
+    "nombre": "Producto 2",
+    "descripcion": "Descripcion 10",
+    "precio": 2510.91,
+    "codigo": 34098,
+    "url": "https://picsum.photos/id/24/200/200",
+    "stock": 46
+  }
+]
